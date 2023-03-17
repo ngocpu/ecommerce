@@ -1,0 +1,39 @@
+
+.content{
+    top: 35%;
+}
+.banner{
+    width: -webkit-fill-available;
+}
+.b1,.b2{
+    height: auto;
+}
+.banner-sub h6{
+    top: 5%;
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+.content-title h1{
+    color: #333;
+    font-size: 4.0625rem;
+    font-weight: 700;
+}
+.text-effect{
+    color: #81c408;
+}
+.b-top{
+    padding: 15px 40px !important;
+    background-color: #81c408 !important;
+    box-shadow: -2px 6px 4px  #517b02;
+    transition: all .4s !important;
+}
+.b-top a{
+    text-decoration: none;
+    font-size: 1.26rem;
+    color:aliceblue
+}
+.b-top:hover{
+    box-shadow: none;
+    transform: translateX(-6px) !important;
+    transform: translateY(6px) !important;
+}
